@@ -1,0 +1,8 @@
+git+https://github.com/openai/whisper.git
+openai
+langchain
+youtube_search
+pandas
+yt-dlp
+whisper
+pytube
