@@ -6,7 +6,7 @@ pip -r install requirements.txt
 
 
 # Code
-Consists of two custom LangChain tools, *CustomYTSearchTool* and *CustomYTTranscribeTool*
+Consists of two custom LangChain tools, **CustomYTSearchTool** and **CustomYTTranscribeTool**
  * CustomYTSearchTool searches for the youtube videos featuring a *person name* and returns the top *num_results* URLs
  * CustomYTTranscribeTool transcribes the videos and outputs the text transcripts to transcripts.json
 
