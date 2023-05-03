@@ -11,7 +11,7 @@ Consists of two custom LangChain tools, CustomYTSearchTool and CustomYTTranscrib
  * CustomYTTranscribeTool transcribes the videos and outputs the text transcripts to transcripts.json
 
 # Demo
-running *python yt_tools.py* shows you an agent run that transcribes the top 3 video results for Laszlo Bock (Google HR celebrity). you should see the results in *transcripts.json*
+running *python yt_tools.py* shows you an agent run that transcribes the top 3 video results for Laszlo Bock (Google HR celebrity). you should see the results stored in *transcripts.json* in the current working directory.
 
 # Caveats
 you will be required to authenticate with your Youtube credentials the first time around
