@@ -1,7 +1,7 @@
 # langchain_yt_tools
-Langchain tools to search/extract/transcribe text transcripts of Youtube videos
+Langchain tools to search/extract/transcribe Youtube videos
 
-#Installation
+# Installation
 pip -r install requirements.txt
 
 
