@@ -2,7 +2,7 @@
 Custom Langchain tools to search/extract/transcribe Youtube videos
 
 # Installation
-pip -r install requirements.txt
+pip install -r requirements.txt
 
 
 # Code
